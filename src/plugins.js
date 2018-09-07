@@ -67,7 +67,7 @@ export const PluginCreate = (props) => (
             </ReferenceInput>
             
             <ReferenceInput label="Route" source="route_id" reference="routes">
-                <SelectInput optionText="name" />
+                <SelectInput optionText="id" />
             </ReferenceInput>
             <ReferenceInput label="Service" source="service_id" reference="services">
                 <SelectInput optionText="name" />

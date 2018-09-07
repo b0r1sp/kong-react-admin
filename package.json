@@ -1,6 +1,7 @@
 {
   "name": "kong-react-admin",
   "version": "0.1.0",
+  "homepage": ".",
   "dependencies": {
     "@babel/runtime": "7.0.0-beta.55",
     "js-yaml": "^3.12.0",

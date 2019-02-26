@@ -1,3 +1,6 @@
+I've found that it's more practical to manage Kong from command line and configuration files as it allows to put them in git and make changes review. So I don't manage this project anymore, instead consider https://github.com/kepkin/kongctl
+
+
 # kong-react-admin
 This is a dashboard for [Kong api gateway](https://docs.konghq.com/). This project was started due outdated version of [PGBI/kong-dashboard](https://github.com/PGBI/kong-dashboard)
 
